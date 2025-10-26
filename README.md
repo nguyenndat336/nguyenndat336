@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nguyenndat336
+- 👋 Hi, I’m @nguyenndat336
 - 👀 I’m interested in website programming, AI.
 - 🌱 I’m currently learning C++, Python, Js, Java, Css, Kt.
 - 💞️ I’m looking to collaborate on 
